@@ -3,6 +3,8 @@ package Codes.StringBuilder;
 import java.util.HashSet;
 import java.util.Set;
 
+//Remove Duplicate Characters from a String
+
 public class RemoveDuplicate {
     public static void main(String args[])
     {

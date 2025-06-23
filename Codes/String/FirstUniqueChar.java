@@ -1,5 +1,7 @@
 package Codes.String;
 
+//Find First Non-Repeating Character
+
 public class FirstUniqueChar {
     public static void main(String args[])
     {

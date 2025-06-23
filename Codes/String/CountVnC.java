@@ -1,5 +1,7 @@
 package Codes.String;
 
+//Count Vowels and Consonants
+
 public class CountVnC {
     public static void main(String args[])
     {

@@ -1,5 +1,7 @@
 package Codes.String;
 
+//Check if a String is a Palindrome
+
 public class Palindrome {
     public static void main(String args[])
     {

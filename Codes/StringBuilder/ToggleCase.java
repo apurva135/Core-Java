@@ -1,5 +1,7 @@
 package Codes.StringBuilder;
 
+//Toggle Case of Each Character in a String
+
 public class ToggleCase {
     public static void main(String args[])
     {

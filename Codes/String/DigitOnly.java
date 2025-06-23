@@ -1,5 +1,7 @@
 package Codes.String;
 
+//Check if String Contains Only Digits
+
 public class DigitOnly {
     public static  void main(String args[])
     {
